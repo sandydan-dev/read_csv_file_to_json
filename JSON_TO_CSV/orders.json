@@ -1,0 +1,6 @@
+[
+    { "order_id": "1001", "customer_name": "Alex Reed", "total_amount": "120.50" },
+    { "order_id": "1002", "customer_name": "Emily Stone", "total_amount": "80.25" },
+    { "order_id": "1003", "customer_name": "Michael Clark", "total_amount": "150.75" },
+    { "order_id": "1004", "customer_name": "Sophia Turner", "total_amount": "60.00" }
+  ]

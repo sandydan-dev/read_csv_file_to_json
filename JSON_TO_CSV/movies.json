@@ -1,0 +1,7 @@
+[
+    { "movie_id": "1", "title": "Inception", "rating": "8.8" },
+    { "movie_id": "2", "title": "Titanic", "rating": "7.8" },
+    { "movie_id": "3", "title": "The Matrix", "rating": "8.7" },
+    { "movie_id": "4", "title": "Interstellar", "rating": "8.6" }
+  ]
+  
