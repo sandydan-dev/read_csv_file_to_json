@@ -1,0 +1,26 @@
+[
+  {
+    "employee_id": "001",
+    "name": "John Doe",
+    "date": "2024-10-23",
+    "status": "present"
+  },
+  {
+    "employee_id": "002",
+    "name": "Alice Johnson",
+    "date": "2024-10-23",
+    "status": "absent"
+  },
+  {
+    "employee_id": "003",
+    "name": "Robert Brown",
+    "date": "2024-10-23",
+    "status": "present"
+  },
+  {
+    "employee_id": "004",
+    "name": "Susan White",
+    "date": "2024-10-23",
+    "status": "present"
+  }
+]

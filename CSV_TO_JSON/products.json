@@ -1,0 +1,26 @@
+[
+  {
+    "product_id": "101",
+    "product_name": "Laptop",
+    "quantity": "50",
+    "price": "899.99"
+  },
+  {
+    "product_id": "102",
+    "product_name": "Smartphone",
+    "quantity": "200",
+    "price": "499.99"
+  },
+  {
+    "product_id": "103",
+    "product_name": "Headphones",
+    "quantity": "150",
+    "price": "29.99"
+  },
+  {
+    "product_id": "104",
+    "product_name": "Mouse",
+    "quantity": "300",
+    "price": "14.99"
+  }
+]
