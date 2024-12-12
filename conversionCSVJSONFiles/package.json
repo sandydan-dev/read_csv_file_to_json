@@ -1,0 +1,19 @@
+{
+  "name": "conversion_csv_to_json_and_json_to_csv_file",
+  "version": "1.0.0",
+  "description": "working on csv file and json file conversion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "csv-parser",
+    "json2csv"
+  ],
+  "author": "Sandeep Dhanwate",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "json2csv": "^6.0.0-alpha.2"
+  }
+}
