@@ -1,0 +1,7 @@
+INFO: Application started
+WARN: Low disk space
+ERROR: Failed to connect to the database
+INFO: User loged in
+ERROR: Invalid user credentials
+WARN: Depricated API usage
+WARN: Depricated API usages
