@@ -1,0 +1,9 @@
+INFO: User logged in
+ERROR: Failed to logged in
+WARN: Low disk space
+INFO: Password changed
+ERROR: Failed logged in attempt
+ERROR: Failed to connect with the database
+INFO: User logged out
+ERROR: Failed logged in attempt
+WARN: alert to Password
